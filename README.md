@@ -7,6 +7,7 @@ A blog for developpers.
 - PHP 8.1
 - Laravel 10.10
 - MySQL
+- HTML & Tailwind CSS
 - Vistual Studio Code
 
 # Screenshots
