@@ -18,6 +18,7 @@ A blog for developpers.
 <img src="https://github.com/N1AKAI/DevBlog_Web/blob/main/screenshots/s4.png"/>
 <img src="https://github.com/N1AKAI/DevBlog_Web/blob/main/screenshots/s5.png"/>
 <img src="https://github.com/N1AKAI/DevBlog_Web/blob/main/screenshots/s6.png"/>
+
 # Feedback
 
 If you have any feedback, please reach out to me at saad.aboulhoda@gmail.com
